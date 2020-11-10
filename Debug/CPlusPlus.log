@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CPlusPlus.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CPlusPlus.cpp
+C:\Users\anadi\source\repos\CPlusPlus\CPlusPlus.cpp(43,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anadi\source\repos\CPlusPlus\CPlusPlus.cpp(115,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anadi\source\repos\CPlusPlus\CPlusPlus.cpp(353,25): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+C:\Users\anadi\source\repos\CPlusPlus\CPlusPlus.cpp(353,52): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\anadi\source\repos\CPlusPlus\CPlusPlus.cpp(353,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\anadi\source\repos\CPlusPlus\CPlusPlus.cpp(353,39): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+C:\Users\anadi\source\repos\CPlusPlus\CPlusPlus.cpp(353,39): warning C4309: 'initializing': truncation of constant value
+  CPlusPlus.vcxproj -> C:\Users\anadi\source\repos\CPlusPlus\Debug\CPlusPlusBasics.exe
